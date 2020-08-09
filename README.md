@@ -1,5 +1,6 @@
 # Dance-Form-ML
-Model to classify Dance Style from various Indian Dance Forms
+Model to classify Dance Style from various Indian Dance Forms.
+
 You can get dataset from [here](https://www.kaggle.com/somnath796/indian-dance-form-recognition?)
 1. Data Preprocessing:
 	I converted the input training images to the size of 128X128.
